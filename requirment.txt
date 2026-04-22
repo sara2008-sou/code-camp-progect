@@ -1,0 +1,3 @@
+streamlit
+google.gnereativeai
+speach_recognition
